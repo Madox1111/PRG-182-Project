@@ -1,6 +1,6 @@
 # PRG-182-Project
 Programming 182 Group Project, Completion Date: 10 June 2022
-Task: WriteaC# console application thatwill simulate the menu for a fast-food restaurant.You  can  choose  any  known  restaurant  or make  your  own.  The  application  needs  to make  use  of multiple Enum driven menus for all of the different categories of food or drink based items that can be purchased.Please follow the instructions below:
+Task: WriteaC# console application that will simulate the menu for a fast-food restaurant. You  can  choose  any  known  restaurant  or make  your  own.  The  application  needs  to make  use  of multiple Enum driven menus for all of the different categories of food or drink based items that can be purchased. Please follow the instructions below:
 
 •The application should be a C# console application.•The application should make use of Enum menus.[10]
 •Make use of methods to generate new menus. [10]•The application should allow you to order various products. [10]
